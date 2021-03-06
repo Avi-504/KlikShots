@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224495669368",
+    "firebase_url": "https://klikshots-af420.firebaseio.com",
+    "project_id": "klikshots-af420",
+    "storage_bucket": "klikshots-af420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224495669368:android:75f73b64e5985f61975d8d",
+        "android_client_info": {
+          "package_name": "com.avi.KlikShots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224495669368-ael0aikdejid2soh87q8c7ql67tmqf6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avi.KlikShots",
+            "certificate_hash": "9b3953e2178110171a34a3971d3d127df59b865b"
+          }
+        },
+        {
+          "client_id": "224495669368-sn47vo5jp9m9956hp6053s2stk9ndp9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoa6kDU4rdiWIGW733LgfplszFnkx4PYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224495669368-sn47vo5jp9m9956hp6053s2stk9ndp9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
